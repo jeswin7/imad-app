@@ -4,7 +4,7 @@ body {
     margin-top: 75px;
     
     background-image: url("https://images.pexels.com/photos/449460/pexels-photo-449460.jpeg?h=350&auto=compress&cs=tinysrgb");
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
 }
 
 .center {
